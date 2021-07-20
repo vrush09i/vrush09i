@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Vrushali 
+
 - 🎓 I’m Computer Science Engineering Student 
+
 - 👀 I’m interested in Data science 
+
 - 🌱 I’m currently learning Competitive Programming
+
 - 📫 How to reach me vrushali2018ingle@gmail.com
 
 <!---
